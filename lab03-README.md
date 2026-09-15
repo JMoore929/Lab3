@@ -2,6 +2,9 @@
 
 **Platform:** Microsoft Azure
 
+**LOOM Video Link** 
+https://www.loom.com/share/65c539c4e4d047a7ba81a181e5209f56
+
 ---
 
 ## 📌 Overview
