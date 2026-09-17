@@ -1,4 +1,4 @@
-# Lab 03: Modernizing to PaaS & Securing Secrets
+# Lab 3: Modernizing to PaaS & Securing Secrets
 
 **Platform:** Microsoft Azure
 
